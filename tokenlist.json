@@ -52,6 +52,13 @@
       "symbol": "wUSDT",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-evm-tokenlist/main/assets/0x3a59c1dd7535cfc1181a758758e06cd98a175bc8.png"
+    },
+    {
+      "chainId": 6736,
+      "address": "0xb972753d17c5131d127b6c22dde79b91a3132d03",
+      "name": "ZORU",
+      "symbol": "ZORU",
+      "decimals": 8
     }
   ]
 }
